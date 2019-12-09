@@ -1,0 +1,6 @@
+---
+prd:
+  hosts:
+    node.7:
+    node.8:
+    node.9:

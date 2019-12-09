@@ -1,0 +1,6 @@
+---
+stg:
+  hosts:
+    node.4:
+    node.5:
+    node.6:
